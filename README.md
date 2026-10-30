@@ -5,7 +5,11 @@
 [![Domain](https://img.shields.io/badge/Domain-Oil%20%26%20Gas%20Asset%20Integrity-orange.svg)](#)
 [![Architecture](https://img.shields.io/badge/Schema-3NF%20Relational%20Model-green.svg)](#)
 
----
+# 🔗 Live Interactive Execution
+Explore the fully executed Python notebook, step-by-step EDA, and visual risk distributions live on Kaggle:  
+👉 [Asset Equipment Maintenance Pipeline & Analysis 02](https://www.kaggle.com/code/ritaohabuenyi/asset-equipment-maintenance-pipeline-analysis-02)
+
+------
 
 ## 📌 Executive Summary
 
